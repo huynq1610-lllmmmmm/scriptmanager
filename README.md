@@ -41,7 +41,7 @@ pip install flask
 Run the application:
 bash
 
-python script_manager_v4.py
+python script_manager.py
 Open your browser and navigate to:
 http://localhost:7890
 
