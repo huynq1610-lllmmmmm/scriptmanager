@@ -32,7 +32,7 @@ Steps
 Clone this repository:
 bash
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/huynq1610-lllmmmmm/scriptmanager
 cd your-repo-name
 Install required Python packages:
 bash
